@@ -1,6 +1,6 @@
 # Iris dataset fact sheet
 
-
+![iris flower measurements](iris.png)
 
 This is one of the earliest datasets used to study “classification.”
 It was made famous by the British statistician and biologist Ronald Fisher in his 1936 paper _The use of multiple measurements in taxonomic problems_.
