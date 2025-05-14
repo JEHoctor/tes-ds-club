@@ -109,7 +109,8 @@ If you want to look at the sepal length of only the iris setosa species, you can
 select_values_by_label("Iris-setosa", y, sepal_length)
 ```
 
-What are the means and standard deviations of your feature for each species of iris? 
+What are the means and standard deviations of your feature for each species of iris?
+
 | species    | mean | standard deviation |
 | ---------- | ---- | ------------------ |
 | setosa     |      |                    |
