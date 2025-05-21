@@ -33,6 +33,20 @@ Each row is a different location on the ground that has been imaged by the satel
 ```python
 X.shape
 ```
+
+Here's how easy it can be to get information from a DataFrame:
+
+```python
+# Tells us what the columns are called. This dataset doesn't have very useful column names, but that's not always true.
+X.columns
+```
+
+Also, look how easy it is to get means and standard deviations:
+
+```python
+X[["Attribute1", "Attribute2", "Attribute3", "Attribute4", "Attribute5"]].describe()
+```
+
 The variable `y` (lowercase) has 6435 rows, but only one column.
 It contains the values we want to predict, which are types of soil at the location imaged by the satellite.
 
@@ -58,7 +72,10 @@ from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, stratify=y, random_state=42)
 ```
 
-Now we will train a k-nearest neighbors (k-NN) model on the training data.
+Notice the part that says `test_size=0.33`. That means that one third of the data will be used for testing, and won't be in the training data.
+The part that says `stratify=y` tells the `train_test_split` split function to make sure that the proportion of soil types is the same in the train and test data as it is in the whole dataset.
+
+Now we will train the k-nearest neighbors model on the training data.
 
 ```python
 from sklearn.neighbors import KNeighborsClassifier
