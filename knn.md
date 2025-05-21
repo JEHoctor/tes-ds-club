@@ -2,7 +2,7 @@
 
 Rember to install the ucimlrepo package in your Colab notebook.
 
-```python
+```
 !pip install ucimlrepo
 ```
 
