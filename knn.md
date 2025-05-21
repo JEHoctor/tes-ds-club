@@ -37,7 +37,8 @@ X.shape
 Here's how easy it can be to get information from a DataFrame:
 
 ```python
-# Tells us what the columns are called. This dataset doesn't have very useful column names, but that's not always true.
+# Tells us what the columns are called. This dataset doesn't
+# have very useful column names, but that's not always true.
 X.columns
 ```
 
