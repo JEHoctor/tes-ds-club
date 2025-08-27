@@ -4,7 +4,7 @@
 
 [logic.ly 🤖](https://logic.ly/demo/)
 
-[Advanced Python activity 🔧](https://drive.google.com/file/d/1wY-Idohg51X3XE3GoOCzcj3VhVRZjrsU/view?usp=sharing)
+[Advanced Python activity 🔧](https://colab.research.google.com/drive/1KspHKHtC7mjIQeYFmVeFe2SrSb_FavSI?usp=sharing)
 
 
 <!-- Classroom resources for the Data Science Club at TES
