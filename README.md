@@ -10,7 +10,7 @@
 
 [AI Game Playing 🕹️](https://colab.research.google.com/drive/1LTMjz1BVPcwCw8FSjwo2osEK2kDKw9-K?usp=sharing)
 
-[Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing)
+<!-- [Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing) -->
 
 
 <!-- Classroom resources for the Data Science Club at TES
