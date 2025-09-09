@@ -13,10 +13,10 @@
 <!-- [Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing) -->
 
 
-<!-- Classroom resources for the Data Science Club at TES
+<!-- Classroom resources for the Data Science Club at TES -->
 
 [Iris dataset info](iris.md)
 
 [EDA activity](eda.md)
 
-[Landsat Satellite](knn.md) 🛰️📡🔭 -->
+<!-- [Landsat Satellite](knn.md) 🛰️📡🔭 -->
