@@ -10,13 +10,17 @@
 
 [AI Game Playing 🕹️](https://colab.research.google.com/drive/1LTMjz1BVPcwCw8FSjwo2osEK2kDKw9-K?usp=sharing)
 
+[✨Day Three Python Activity✨](https://colab.research.google.com/drive/1eedeCyywr5cRwe3-lLdGdeVqblAn92tR?usp=sharing)
+
+[Iris dataset info](iris.md)
+
 <!-- [Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing) -->
 
 
 <!-- Classroom resources for the Data Science Club at TES -->
 
-[Iris dataset info](iris.md)
+<!-- [Iris dataset info](iris.md) -->
 
-[EDA activity](eda.md)
+<!-- [EDA activity](eda.md) -->
 
 <!-- [Landsat Satellite](knn.md) 🛰️📡🔭 -->
