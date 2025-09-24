@@ -16,6 +16,8 @@
 
 [✨Day Four Python Activity✨](https://colab.research.google.com/drive/1pNEuCqsMoNsxk4o6ymMmgZThFAqmQ55-?usp=sharing)
 
+[✨Day Five Python Activity✨](https://colab.research.google.com/drive/1a2Wqu0dl_K_cUiS78m5M-0GNh95C92jZ?usp=sharing)
+
 <!-- [Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing) -->
 
 
