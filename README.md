@@ -20,19 +20,7 @@
 
 [Baseball Analytics ⚾](https://colab.research.google.com/drive/1u_NFEo-nefrO75lvaEcX9TQjNZAZvPLN?usp=sharing)
 
-<style>
-@keyframes wiggle {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0); }
-}
-.animated-char {
-  display: inline-block;
-  animation: wiggle 0.5s infinite;
-}
-</style>
-
-[Simple Animation <span class="animated-char">:)</span>](https://colab.research.google.com/drive/12RWYAWnVfCydX2PWn4aAzErf9o9G_6Us?usp=sharing)
+[Simple Animation](https://colab.research.google.com/drive/12RWYAWnVfCydX2PWn4aAzErf9o9G_6Us?usp=sharing)
 
 <!-- Classroom resources for the Data Science Club at TES -->
 
