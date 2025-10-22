@@ -1,5 +1,9 @@
 # tes-ds-club
 
+[🔥Vibe Coding Activity🔥](https://colab.research.google.com/drive/1R_nSX9miSsQLPIXdJwb_egJIG_Iv4GaS?usp=sharing)
+
+## 25-26 Q1 activities
+
 [✨Day One Python Activity✨](https://colab.research.google.com/drive/1UqzNNDKut0BooLrhgQAo_QJyVqlRxpvp?usp=sharing)
 
 [logic.ly 🤖](https://logic.ly/demo/)
