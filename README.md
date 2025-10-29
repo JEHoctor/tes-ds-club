@@ -2,6 +2,8 @@
 
 [🔥Vibe Coding Activity🔥](https://colab.research.google.com/drive/1R_nSX9miSsQLPIXdJwb_egJIG_Iv4GaS?usp=sharing)
 
+[✏️Student Data Activity✏️](https://colab.research.google.com/drive/1vfwW0L9451I4xSuhhNtex-q0r5eUBkFQ?usp=sharing)
+
 ## 25-26 Q1 activities
 
 [✨Day One Python Activity✨](https://colab.research.google.com/drive/1UqzNNDKut0BooLrhgQAo_QJyVqlRxpvp?usp=sharing)
