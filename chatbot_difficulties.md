@@ -2,7 +2,14 @@ First: open [Claude](claude.ai)
 
 Second: open the projects tab 
 ![](project_button.png)
-<style>
+
+Third: Make a new project
+![](new_project.png)
+![](create_project.png)
+
+Fourth: Copy the instruction below
+![](add_instruction.png)
+
 pre, code {
   white-space: pre-wrap;
   overflow-wrap: break-word;
@@ -35,3 +42,7 @@ document.querySelectorAll('.copy-button').forEach(btn => {
   });
 });
 </script>
+
+![](instruction.png)
+
+Fifth: Start Coding!
