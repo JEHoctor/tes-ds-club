@@ -1,4 +1,4 @@
-First: open [Claude]([claude.ai](https://claude.ai/))
+First: open [Claude](https://claude.ai/)
 
 Second: open the projects tab 
 ![](project_button.png)
