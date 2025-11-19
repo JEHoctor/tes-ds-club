@@ -10,15 +10,6 @@ Third: Make a new project
 Fourth: Copy the instruction below
 ![](add_instruction.png)
 
-pre, code {
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  overflow-x: hidden;
-  width: 100%;
-}
-</style>
-
 <pre class="code-block">
   <button class="copy-button">Copy</button>
   <code>
