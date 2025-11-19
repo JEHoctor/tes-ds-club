@@ -1,3 +1,7 @@
+First: open [Claude](claude.ai)
+
+Second: open the projects tab 
+![](project_button.png)
 <style>
 pre, code {
   white-space: pre-wrap;
