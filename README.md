@@ -1,5 +1,9 @@
 # tes-ds-club
 
+[✏️Claude Coding Prompts✏️](chatbot_difficulties.md)
+
+[🤖LeetCode🤖](https://leetcode.com/)
+
 [🔥Vibe Coding Activity🔥](https://colab.research.google.com/drive/1R_nSX9miSsQLPIXdJwb_egJIG_Iv4GaS?usp=sharing)
 
 [✏️Student Data Activity✏️](https://colab.research.google.com/drive/1vfwW0L9451I4xSuhhNtex-q0r5eUBkFQ?usp=sharing)
